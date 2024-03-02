@@ -19,7 +19,7 @@ const romanize = (num) => {
     I: 1,
   };
 
-  const roman = '';
+  let roman = '';
 
   if (isNaN(num) || !num) {
     output.textContent = 'Please enter a valid number';
