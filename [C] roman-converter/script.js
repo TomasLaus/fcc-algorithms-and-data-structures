@@ -48,3 +48,9 @@ const romanize = (num) => {
 convertBtn.addEventListener('click', () => {
   romanize(numberInp.value);
 });
+
+numberInp.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    romanize(numberInp.value);
+  }
+});
