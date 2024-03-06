@@ -32,6 +32,8 @@ This certification consists of 21 projects that cover various topics and skills 
 
 - [Spreadsheet](./spreadsheet/]]) Build a functional spreadsheet that allows different operations. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-functional-programming-by-building-a-spreadsheet)
 
+- [Spam Filter](./spam-filter/]]) Build a spam filter app using regex. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-regular-expressions-by-building-a-spam-filter)
+
 <!-- 
 - Cash Register: Build a cash register web app.
 
