@@ -34,6 +34,8 @@ This certification consists of 21 projects that cover various topics and skills 
 
 - [Spam Filter](./spam-filter/]]) Build a spam filter app using regex. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-regular-expressions-by-building-a-spam-filter)
 
+- [Telephone Number Validator](./[C]%20telephone-number-validator/]]]) Build an application that checks if a number is a valid United States phone number. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#build-a-telephone-number-validator-project)
+
 <!-- 
 - Cash Register: Build a cash register web app.
 
