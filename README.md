@@ -36,6 +36,8 @@ This certification consists of 21 projects that cover various topics and skills 
 
 - [Telephone Number Validator](./[C]%20telephone-number-validator/]]]) Build an application that checks if a number is a valid United States phone number. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#build-a-telephone-number-validator-project)
 
+- [Shopping Cart](./shopping-cart/) Build a functional shopping cart. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-oop-by-building-a-shopping-cart)
+
 <!-- 
 - Cash Register: Build a cash register web app.
 
