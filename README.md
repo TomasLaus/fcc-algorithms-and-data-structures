@@ -40,6 +40,8 @@ This certification consists of 21 projects that cover various topics and skills 
 
 - [Platformer Game](./platformer-game/) Build a platformer game. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-intermediate-oop-by-building-a-platformer-game)
 
+- [Dice Game](./dice-game/) Build a game implementing game logic for rolling dice, keeping score, and applying rules for various combinations. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-intermediate-algorithmic-thinking-by-building-a-dice-game)
+
 <!-- 
 - Cash Register: Build a cash register web app.
 
