@@ -38,6 +38,8 @@ This certification consists of 21 projects that cover various topics and skills 
 
 - [Shopping Cart](./shopping-cart/) Build a functional shopping cart. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-oop-by-building-a-shopping-cart)
 
+- [Platformer Game](./platformer-game/) Build a platformer game. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-intermediate-oop-by-building-a-platformer-game)
+
 <!-- 
 - Cash Register: Build a cash register web app.
 
