@@ -42,14 +42,9 @@ This certification consists of 21 projects that cover various topics and skills 
 
 - [Dice Game](./dice-game/) Build a game implementing game logic for rolling dice, keeping score, and applying rules for various combinations. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-intermediate-algorithmic-thinking-by-building-a-dice-game)
 
-<!-- 
-- Cash Register: Build a cash register web app.
-
-- Pokémon Search App: Build a Pokémon search app using an API.
-
-- Telephone Number Validator: Build an application that checks if a number is a valid United States phone number.
-
-- Form Validation: Learn how to validate user input in a web form. -->
+- [Cash Register](./[C]%20cash-register/) Build a cash register web app. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#build-a-cash-register-project)
 
 
-</strong>
+<!-- - Pokémon Search App: Build a Pokémon search app using an API. -->
+
+
