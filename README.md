@@ -44,6 +44,8 @@ This certification consists of 21 projects that cover various topics and skills 
 
 - [Cash Register](./[C]%20cash-register/) Build a cash register web app. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#build-a-cash-register-project)
 
+- [Authors Page](./authors-page/) Build a web fetching the authors of freeCodeCamp. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-fetch-and-promises-by-building-an-fcc-authors-page)
+
 
 <!-- - Pokémon Search App: Build a Pokémon search app using an API. -->
 
