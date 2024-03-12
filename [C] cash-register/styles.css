@@ -1,0 +1,50 @@
+body {
+    background-color: #121212;
+    /* Dark background */
+    color: #e0e0e0;
+    /* Light text */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #333;
+    /* Slightly lighter dark background for the container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+input,
+button {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #555;
+    /* Darker border for input and buttons */
+    background-color: #222;
+    /* Dark background for input and buttons */
+    color: #fff;
+    /* Light text for inputs and buttons */
+    width: 100%;
+}
+
+button:hover {
+    background-color: #555;
+    /* Lighter background on hover */
+}
+
+#change-due {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #424242;
+    /* Medium-dark background for change due area */
+    color: #0f0;
+    /* Bright color for emphasis */
+    border: none;
+    border-radius: 5px;
+}
