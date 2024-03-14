@@ -48,7 +48,11 @@ This certification consists of 21 projects that cover various topics and skills 
 
 - [Forum Leaderboard](./forum-leaderboard/) Build a leaderboard for the freeCodeCamp forum. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-asynchronous-programming-by-building-an-fcc-forum-leaderboard)
 
+- [Pokémon Search App](./[C]%20pokemon-search-app/) Build a Pokémon search app using an API. [FCC Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#build-a-pokemon-search-app-project)
 
-<!-- - Pokémon Search App: Build a Pokémon search app using an API. -->
+
+<img align='center' src='https://media.licdn.com/dms/image/D4D2DAQGVmRbrxS_pSg/profile-treasury-image-shrink_800_800/0/1710293318258?e=1711022400&v=beta&t=4soouaxWZDaUUOyUSZn8udAx9P_Iu83M5UkvL5mfIsQ' />
+
+
 
 
