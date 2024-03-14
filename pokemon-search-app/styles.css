@@ -1,0 +1,187 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #121212;
+    /* Dark background */
+    color: #e0e0e0;
+    /* Light text */
+}
+
+header {
+    background-color: #333333;
+    /* Dark header */
+    color: #ffcb05;
+    /* Pikachu yellow for contrast */
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #242424;
+    /* Slightly lighter dark shade for the container */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #555;
+    /* Darker border for inputs */
+    background-color: #333;
+    /* Dark input fields */
+    color: #ddd;
+    /* Light text */
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#sprite-container img {
+    max-width: 200px;
+    border-radius: 4px;
+}
+
+.type {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 14px;
+}
+
+/* Keep the colors for types since they are already vibrant and distinguishable */
+/* Table styles for dark mode */
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    color: #ddd;
+    /* Light text for readability */
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color: #1e1e1e;
+    /* Even darker shade for alternate rows */
+}
+
+/* Enhancing visibility of interactive elements */
+input[type="text"]:focus,
+button:focus {
+    outline-color: #ffcb05;
+    /* Pikachu yellow for focusing */
+}
+
+/* Dynamically adjust the background colors based on type */
+.type.normal {
+    background-color: #A8A878;
+}
+
+.type.fire {
+    background-color: #F08030;
+}
+
+.type.water {
+    background-color: #6890F0;
+}
+
+.type.electric {
+    background-color: #F8D030;
+}
+
+.type.grass {
+    background-color: #78C850;
+}
+
+.type.ice {
+    background-color: #98D8D8;
+}
+
+.type.fighting {
+    background-color: #C03028;
+}
+
+.type.poison {
+    background-color: #A040A0;
+}
+
+.type.ground {
+    background-color: #E0C068;
+}
+
+.type.flying {
+    background-color: #A890F0;
+}
+
+.type.psychic {
+    background-color: #F85888;
+}
+
+.type.bug {
+    background-color: #A8B820;
+}
+
+.type.rock {
+    background-color: #B8A038;
+}
+
+.type.ghost {
+    background-color: #705898;
+}
+
+.type.dragon {
+    background-color: #7038F8;
+}
+
+.type.dark {
+    background-color: #705848;
+}
+
+.type.steel {
+    background-color: #B8B8D0;
+}
+
+.type.fairy {
+    background-color: #EE99AC;
+}
